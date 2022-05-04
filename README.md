@@ -7,5 +7,13 @@
 
 🎏 HTML, CSS, JS
 
+# ⭐ Quotes
+
+Learning never exhausts the mind.
+
+
+Leonardo da Vinci
+
+
 ![Profile views](https://gpvc.arturio.dev/N)  
 
