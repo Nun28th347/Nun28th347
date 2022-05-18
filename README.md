@@ -14,7 +14,7 @@ Learning never exhausts the mind.
 
 Leonardo da Vinci
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Nun28th347)
 
 ![Profile views](https://gpvc.arturio.dev/N)  
 
